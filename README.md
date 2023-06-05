@@ -25,7 +25,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 
 ## Deployment Link :
-https://insurance-premium-prediction1.herokuapp.com/
+LINK{link of deployment}
 
 
 ## Web Inerface :
@@ -48,5 +48,5 @@ https://insurance-premium-prediction1.herokuapp.com/
     1) Python 
     2) Front-end : HTML, CSS
     3) Back-end : Flask
-    4) Deployment : Heruko
+    4) Deployment : Render
 
