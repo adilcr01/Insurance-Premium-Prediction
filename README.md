@@ -48,5 +48,5 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
     1) Python 
     2) Front-end : HTML, CSS
     3) Back-end : Flask
-    4) Deployment : Render
+    4) Deployment : Azure, Render
 
