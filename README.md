@@ -25,7 +25,7 @@ Applying machine learing tasks like Data Exploration, Data Cleaning, Feature Eng
 
 
 ## Deployment Link :
-LINK{link of deployment}
+![LINK](insurance-premium-prediction.azurewebsites.net)
 
 
 ## Web Inerface :
